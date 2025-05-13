@@ -9,4 +9,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiXiphus" width="1000px" height="250px">
 
 ### 🎸Also, my favourite anime is Bocchi the Rock!🤘
-![digicon_ep5_PC](https://github.com/user-attachments/assets/9d0458f8-c8a5-4ba5-9a35-8b5403766aae)
+<img src="https://github.com/user-attachments/assets/9d0458f8-c8a5-4ba5-9a35-8b5403766aae" 
+     alt="digicon_ep5_PC" 
+     style="width: 75%; height: auto;"/>
