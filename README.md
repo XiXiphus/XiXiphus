@@ -6,7 +6,7 @@
 - 🎨 I'm very interested in the modeling software Blender and playing the e-guitar.
 - 📫 How to reach me: Contact me with my institutional e-mail: <Qiuyi.Chen@liverpool.ac.uk>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiXiphus&layout=compact" width="1000px" height="250px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiXiphus" width="1000px" height="250px">
 
 ### 🎸Also, my favourite anime is Bocchi the Rock!🤘
 ![digicon_ep5_PC](https://github.com/user-attachments/assets/9d0458f8-c8a5-4ba5-9a35-8b5403766aae)
